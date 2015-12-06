@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>geogram</title>
+    <title>instoogle</title>
   </head>
   <body>
   <form action="/REST/index.php" method="get">

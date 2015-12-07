@@ -5,7 +5,7 @@
     <title>instoogle</title>
   </head>
   <body>
-  <form action="/REST/index.php" method="get">
+  <form action="/instoogle/index.php" method="get">
     <input type="text" name="location"/>
     <button type="submit">Submit</button>
   </form>
